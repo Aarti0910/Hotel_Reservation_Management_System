@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Aarti
+Build-Jdk: 17.0.5
+Implementation-Title: employee-management-webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.javaguides
+Implementation-URL: https://spring.io/projects/spring-boot/employee-mana
+ gement-webapp
+Created-By: Maven Integration for Eclipse
+
